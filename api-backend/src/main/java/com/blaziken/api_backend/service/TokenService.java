@@ -19,10 +19,7 @@ public class TokenService {
     @Value("${api.security.token.secret}")
     private String secret;
 
-    public String generate
-    (
-        User user
-    )
+    public String generate(User user)
     {
         try
         {
