@@ -1,2 +1,2 @@
 # blaziken
-loja de eletrônicos 
+loja de eletrônicos com Spring Boot
